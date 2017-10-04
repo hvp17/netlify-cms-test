@@ -1,5 +1,5 @@
 ---
-title: Our Coffee 2
+title: Our Coffee 2e42
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -99,6 +99,7 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
 
